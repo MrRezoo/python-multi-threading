@@ -24,8 +24,8 @@ in this repository We work on threading with threading module on python
 Project is created with:
 
 * Python: 3.9
-* nose: 1.3.7
-* pytest: 6.2.4
+* threading
+
 
 ## Help
 
