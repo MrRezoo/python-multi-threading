@@ -5,6 +5,12 @@ start = perf_counter()
 
 
 def show(name, delay):
+    """
+
+    :param name:
+    :param delay:
+    :return:
+    """
     print(f'Starting {name} ...')
     sleep(delay)
     print(f'Finishing {name} ...')
