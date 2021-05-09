@@ -1,7 +1,7 @@
 from threading import Timer
 
 
-def show():
+def show(f, s):
     print(f'Hello World ...')
 
 
