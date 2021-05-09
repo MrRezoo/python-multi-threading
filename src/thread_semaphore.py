@@ -9,6 +9,8 @@ from time import sleep
 
 num = 0  # shared resource
 lock_normal = Semaphore(value=2)
+
+
 # lock_bounded = BoundedSemaphore(value=2)
 
 def add():
